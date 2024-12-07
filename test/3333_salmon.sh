@@ -1,7 +1,7 @@
 ###################################################
 echo -e  '\n \n \n ### salmon quant is Working !!! \n \n'
 ###set##set###set#############
-index="~/fyp/reference/index/salmon/grcm38/"
+index="$HOME/fyp/reference/index/salmon/grcm38/"
 
 mkdir ~/fyp/test/salmon
 cd ~/fyp/test/salmon
