@@ -2,7 +2,7 @@
 echo -e "\n \n \n444# Count #featureCounts !!! \n \n \n"
 date
 #####set####set###set
-gtf="$HOME/fyp/reference/gtf/gencode/gencode.vM10.annotation.gtf"
+gtf="$HOME/fyp/reference/gtf/gencode/gencode.vM25.annotation.gtf"
 #gtf="$HOME/fyp/reference/gtf/UCSC/mm10.refGene.gtf.gz"
 
 mkdir  -p  ~/fyp/test/counts
