@@ -45,7 +45,7 @@ salmon index -p 12 -t ~/reference/ensembl/grcm38.cdna.fa.gz -i ./
 
 To annotate sample groups, download the sample Metadata information table `SraRunTable.txt` from the GEO website.
 
-![Metadata](Metadata.jpg)
+![Metadata](https://github.com/ZhuangshengLi/FYP/blob/main/pic/Metadata.jpg)
 
 ---
 
