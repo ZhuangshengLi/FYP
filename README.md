@@ -120,3 +120,7 @@ bash gtf_geneid2symbol_gencode.sh
 ### **Subsequent Steps**
 
 After completing the above steps, import the `SraRunTable.txt` file and other output results into R to process the data and convert it into a gene expression count matrix for further analysis.
+
+
+### Attribution
+The R scripts `test/R/1_TMM_norm.r`, `test/R/1_TMM_norm_fyp.r`, and `test/R/custom_functions.r` have been adapted from the code prototypes available at ML_PDACBiomarker. These files have been modified for this project and make use of the dataset provided by the [ML_PDACBiomarker project](https://github.com/Victormah/ML_PDACBiomarker).
